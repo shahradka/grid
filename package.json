@@ -1,6 +1,6 @@
 {
-  "name": "@ReactSeam/Grid",
-  "version": "1.0.0",
+  "name": "@ReactSeam/grid",
+  "version": "0.0.1",
   "description": "Grid Component description",
   "license": "ISC",
   "main": "dist/Grid.js",
